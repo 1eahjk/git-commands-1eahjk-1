@@ -13,7 +13,7 @@ import java.util.Scanner;
 
 public class RockPaperScissors {
     
-    public static void main(String[] args) {
+    public  void rpsgame(){
         
         int numPlays;
         String player;
@@ -105,7 +105,7 @@ public class RockPaperScissors {
             }
             if(YN_String.equals("No") || YN_String.equals("no")) {
                 System.out.println ("Goodbye!");
-                break;
+
             }
                           
                 
