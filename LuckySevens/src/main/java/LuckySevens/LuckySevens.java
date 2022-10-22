@@ -1,4 +1,4 @@
-package com.mycompany.luckysevens;
+package LuckySevens;
 /**
  *
  * @author leahjoneskirwin
